@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "asyncbis",
+  "versions": [
+    {
+      "commit": "592cc0b68355ebc44ad6ffc38309d30df3704f79",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:25:03.653079+00:00"
+    }
+  ]
+}
